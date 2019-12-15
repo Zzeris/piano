@@ -19,5 +19,5 @@ A - S - D - F - G - H - J
 
 ## Autor
 
-| [<img src="https://avatars3.githubusercontent.com/u/6575441?s=460&v=4" width=115><br><sub>@zzeris</sub>](https://github.com/Zzeris) |
+| [<img src="https://avatars3.githubusercontent.com/u/6575441?s=460&v=4" width=115><br><sub>@Zzeris</sub>](https://github.com/Zzeris) |
 | :---: |
