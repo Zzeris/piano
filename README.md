@@ -1,5 +1,5 @@
 # Piano
-🎹 Um simples piano desenvolvido utilizando HTML, CSS, JavaScript. Para relaxar e passar o tempo.
+🎹 Um simples piano desenvolvido utilizando HTML, CSS e JavaScript. Para relaxar e passar o tempo.
 
 ### [Demonstração](https://zzeris.github.io/piano/)
 
